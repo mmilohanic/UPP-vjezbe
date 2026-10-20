@@ -1,2 +1,1 @@
-# UPP-vjezbe
-Rješenja vježbi iz kolegija Upravljanje poslovnim procesim (FIPU)
+# Rješenja vježbi iz kolegija Upravljanje poslovnim procesim (FIPU)
